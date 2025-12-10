@@ -162,7 +162,7 @@ layers:
   - KP MULTIPLY
   - {t: '$$mdi:backspace$$', type: backspace}
   - {t: '$$mdi:minus-circle-outline$$', type: held alternate}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - {t: '$$mdi:toggle-switch$$', h: '$$mdi:bluetooth$$', s: '$$mdi:usb$$'}
   - RGB HUD
   - RGB HUI
   - {t: '$$mdi:minus-circle-outline$$', type: none}
